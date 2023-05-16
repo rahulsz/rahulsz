@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Space Management<br><br>🌱 I’m currently learning Angular Js<br><br>📝 I regularly write articles on https://hashnode.com/@RahulShashidhar<br><br>💬 Ask me about Spring Boot , Hibernate , JDBC , REST API<br><br>📫 How to reach me rahulshashidhar7@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1-w9RGD5v3kkz7uTm4M3P5o73tYEyq5hN/view?usp=sharing
+🔭 I’m currently working on Space Management<br><br>🌱 I’m currently learning Angular Js<br><br>📝 I regularly write articles on https://hashnode.com/@RahulShashi<br><br>💬 Ask me about Spring Boot , Hibernate , JDBC , REST API<br><br>📫 How to reach me rahulshashidhar7@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1-w9RGD5v3kkz7uTm4M3P5o73tYEyq5hN/view?usp=sharing
 
 
 ## 🌐 Socials:
