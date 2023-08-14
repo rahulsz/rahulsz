@@ -1,7 +1,7 @@
 ### <div align="center">I'm Rahul, a full-time full-stack developer 🚀</div>  
   
 
--  I am Indian  
+-  I am an Indian  
   
 
 - 🌱 I’m currently learning Next JS and Tailwind CSS  
