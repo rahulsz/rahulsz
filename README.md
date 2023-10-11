@@ -1,4 +1,4 @@
-### <div align="center">I'm Rahul, a full-time full-stack developer 🚀</div>  
+### <div align="center">I'm Rahul, a Full-Stack developer 🚀</div>  
   
 
 -  🔭 I’m currently working on AI companion SAAS project   
