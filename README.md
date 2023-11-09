@@ -1,8 +1,8 @@
 ### <div align="center">I'm Rahul, a Full-Stack developer 🚀</div>  
   
 
--  🔭 I’m currently working on AI companion SAAS project   
-  
+-  🔭 I’m currently working on Notion Clone
+     
 
 - 🌱 I’m currently learning Next JS and Tailwind CSS  
   
