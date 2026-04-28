@@ -16,7 +16,7 @@
 
 ### 🚀 My Platforms & Projects
 <p align="center">
-  <a href="https://rahulcyberx-ctf.vercel.app/"><img src="https://img.shields.io/badge/AntiGrav_CTF_Platform-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF00" alt="RahulCyberX CTF" /></a>
+  <a href="https://rahulcyberx-ctf.vercel.app/"><img src="https://img.shields.io/badge/RahulCyberX_CTF-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF00" alt="RahulCyberX CTF" /></a>
   <a href="https://rahulcyberx.vercel.app/"><img src="https://img.shields.io/badge/CyberX_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="CyberX Portfolio" /></a>
   <a href="https://certnotes.vercel.app/"><img src="https://img.shields.io/badge/CertNotes_App-0D1117?style=for-the-badge&logo=notion&logoColor=white" alt="CertNotes" /></a>
   <br/>
