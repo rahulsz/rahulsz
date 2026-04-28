@@ -16,12 +16,11 @@
 
 ### 🚀 My Platforms & Projects
 <p align="center">
-  <a href="https://rahulcyberx-ctf.vercel.app/"><img src="https://img.shields.io/badge/AntiGrav_CTF_Platform-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF00" alt="AntiGrav CTF" /></a>
+  <a href="https://rahulcyberx-ctf.vercel.app/"><img src="https://img.shields.io/badge/AntiGrav_CTF_Platform-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF00" alt="RahulCyberX CTF" /></a>
   <a href="https://rahulcyberx.vercel.app/"><img src="https://img.shields.io/badge/CyberX_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="CyberX Portfolio" /></a>
   <a href="https://certnotes.vercel.app/"><img src="https://img.shields.io/badge/CertNotes_App-0D1117?style=for-the-badge&logo=notion&logoColor=white" alt="CertNotes" /></a>
   <br/>
   <a href="https://rahulsz.github.io/"><img src="https://img.shields.io/badge/Dev_Blog_&_Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Dev Blog" /></a>
-  <a href="https://rahulshashi1216.wixstudio.com/portfolio"><img src="https://img.shields.io/badge/Classic_Wix_Portfolio-0D1117?style=for-the-badge&logo=wix&logoColor=white" alt="Classic Portfolio" /></a>
 </p>
 
 <br/>
